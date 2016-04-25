@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
+    <div id="page-wrapper">
+      {% include header.html %}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+      <article id="main">
         {{ content }}
-      </div>
+      </article>
+
+      {% include footer.html %}
     </div>
 
-    {% include footer.html %}
+    <script src="{{ site.github.url }}/assets/js/jquery.min.js"></script>
+    <script src="{{ site.github.url }}/assets/js/jquery.scrollex.min.js"></script>
+    <script src="{{ site.github.url }}/assets/js/jquery.scrolly.min.js"></script>
+    <script src="{{ site.github.url }}/assets/js/skel.min.js"></script>
+    <script src="{{ site.github.url }}/assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="{{ site.github.url }}/assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="{{ site.github.url }}/assets/js/main.js"></script>
 
   </body>
-
 </html>
