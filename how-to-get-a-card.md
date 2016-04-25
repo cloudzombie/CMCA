@@ -33,7 +33,7 @@ about recommending cannabis or simply refuses reach out to us and we will help.
         4. If you do want a Caregiver, then fill in your caregiver’s
         information on your application and have them complete the
         [Application for a Designated Caregiver Registry Identification Card]({{ site.github.url }}/documents/Caregiver-Registration.pdf).
-    3. Complete the [Fingerprint Consent Form]({{ site.github.url }}/documents/)
+    3. Complete the [Fingerprint Consent Form]({{ site.github.url }}/documents/Fingerprint-Consent-Form.pdf)
     and have a Livescan vendor take your fingerprints.  Fingerprinting can be
     performed at Dispensary 33 by appointment.
     4. Have your physician complete the [Physician Written Certification Form]({{ site.github.url }}/documents/Physician-Certification.pdf).
