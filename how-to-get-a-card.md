@@ -160,6 +160,7 @@ selection form to change dispensaries can be found at our [Forms]({{ site.github
 By default, patients are allowed to purchase up to 2.5 oz. of cannabis in any 2-week period.
 However, physicians are allowed to recommend a higher allowance – in our experience,
 we have seen patients with twice, and sometimes triple, the regular allowance.  
+
 Even if a patient is originally allowed only 2.5oz, a physician may increase this
 amount by resubmitting a portion of the Physician Certification Form without any
 additional fees to the patient.
@@ -170,6 +171,7 @@ into the computer system to keep track.
 
 #### WHERE CAN I LEGALLY USE MEDICAL CANNABIS?
 Essentially, you can only medicate in private, because patients cannot use cannabis in:
+
 * Any public place, including anywhere other people can see.
 * Any government building
 * Any school or daycare or school bus
@@ -187,8 +189,10 @@ Yes. In Illinois, patients can designate a caregiver to purchase cannabis produc
 from dispensaries on their behalf. Patients may only have one designated caregiver
 at any time and caregivers may only serve one patient at any time. Requirements
 for caregivers are that the must:
+
 * be at least 21 years old
 * be a resident of Illinois
 * not have been convicted of an excluded offense
+
 Caregivers have to apply for registration with the Department of Public Heath.
 It’s a separate form, and it’s on our [Forms]({{ site.github.url }}/forms) page.
