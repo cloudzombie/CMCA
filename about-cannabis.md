@@ -1,8 +1,10 @@
-
-
-
-
-
+---
+layout: page
+title: About Cannabis
+description: About medical cannabis
+permalink: /cannabis/
+banner: images/banner.jpg
+---
 
 ## About Cannabis
 While we question the validity of the decades long “War on Drugs” and attempt
