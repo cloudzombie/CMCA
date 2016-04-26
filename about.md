@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About CMCA
 description: Chicago Medical Cannabis Association
 permalink: /about-us/
 banner: images/banner.jpg
