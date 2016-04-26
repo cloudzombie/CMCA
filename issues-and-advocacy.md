@@ -6,4 +6,10 @@ permalink: /issues-and-advocacy/
 banner: images/banner.jpg
 ---
 
-This is a sample page about issues and advocacy!
+## Key Isses
+The key issues facing patients who require medical cannabis in Illinois are: 
+Fingerprinting
+
+Re-certification
+
+List of qualifying conditions
