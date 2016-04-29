@@ -15,6 +15,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitterUrl: http://www.google.com
 facebookUrl: http://www.google.com
 instagramUrl: http://www.google.com
+googleMapsApiKey: AIzaSyCCGAjXuCpxKwqWc6kgkmCAv-ge2QnrQ1o
 
 # Build settings
 markdown: kramdown
