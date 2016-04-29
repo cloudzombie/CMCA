@@ -3,7 +3,7 @@ layout: page
 title: About Cannabis
 description: About medical cannabis
 permalink: /cannabis/
-banner: images/banner.jpg
+banner: images/X-Wing Wax.png
 ---
 
 ## About Cannabis
