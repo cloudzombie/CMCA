@@ -12,8 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the site description for the Chicago Medical Cannabis Association
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitterUrl: http://www.google.com
+facebookUrl: http://www.google.com
+instagramUrl: http://www.google.com
 
 # Build settings
 markdown: kramdown
