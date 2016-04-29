@@ -36,27 +36,6 @@ banner: images/AdobeStock_89650443_WM.jpeg
       zoom: 7
     });
 
-    var localWindow = new google.maps.InfoWindow({map: map});
-
-    // Try HTML5 geolocation.
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(function(position) {
-        var pos = {
-          lat: position.coords.latitude,
-          lng: position.coords.longitude
-        };
-
-        localWindow.setPosition(pos);
-        localWindow.setContent('Your Location');
-        map.setCenter(pos);
-      }, function() {
-        handleLocationError(true, infoWindow, map.getCenter());
-      });
-    } else {
-      // Browser doesn't support Geolocation
-      handleLocationError(false, infoWindow, map.getCenter());
-    }
-
     var popupWindow = new google.maps.InfoWindow({
       content: ''
     });
