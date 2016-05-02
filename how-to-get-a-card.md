@@ -18,12 +18,12 @@ banner: images/AdobeStock_79408857_WM.jpeg
 * You (or someone close to you) must have a qualifying medical condition.  A complete list of these conditions is on the [Conditions Page]({{ site.github.url }}/conditions/){:target="_blank"}.
 
 ### Step Two: Doctor's recommendation
-Anyone with a qualifying diagnosis in their medical records can find a physician to certify them for the program. Any doctor licensed to write a prescription (with whom you have a relationship) can sign your certification form.  For example, a cancer patient's internist, or even psychiatrist, has the legal authority to sign your physician certification form.
+Anyone with a qualifying diagnosis in their medical records can find a physician to certify them for the program. Any doctor licensed to write a prescription, with whom you have a relationship, can sign your certification form.  For example, a cancer patient's internist, or even psychiatrist, has the legal authority to sign your physician certification form.
 
 If your current physician has concerns or refuses to recommend cannabis, please use our [Find a Doctor]({{ site.github.url }}/doctor){:target="_blank"} page to find suitable doctor.
 
 > **Optional Step: Assign a Caregiver**   
-> While not required, we __strongly recommend that patients assign a caregiver.__  A caregiver has all of the privileges of purchasing and possessing cannabis as a patient and are designated by a patient to help purchase cannabis on their behalf. If you are close to someone who qualifies, we encourage you to discuss their becoming a patient and assigning you as their caregiver.
+> While not required, we __strongly recommend that patients assign a caregiver.__  A caregiver has all of the privileges of purchasing and possessing cannabis as a patient and is designated by a patient to help purchase cannabis on their behalf. If you are close to someone who qualifies, we encourage you to discuss their becoming a patient and assigning you as their caregiver.
 
 ### Step Three: Apply.
 Applications can be completed with the [online web-based application](http://www.dph.illinois.gov/topics-services/prevention-wellness/medical-cannabis/medical-cannabis-registry-application){:target="_blank"} form or by printing out an application from our [Forms Page](/forms){:target="_blank"} and mailing or e-mailing it in to the Dept of Public Health.  In order to complete the application, you will need:  
