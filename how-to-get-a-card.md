@@ -26,7 +26,7 @@ If your current physician has concerns or refuses to recommend cannabis, please 
 > While not required, we __strongly recommend that patients assign a caregiver.__  A caregiver has all of the privileges of purchasing and possessing cannabis as a patient and is designated by a patient to help purchase cannabis on their behalf. If you are close to someone who qualifies, we encourage you to discuss their becoming a patient and assigning you as their caregiver.
 
 ### Step Three: Apply.
-Applications can be completed with the [online web-based application](http://www.dph.illinois.gov/topics-services/prevention-wellness/medical-cannabis/medical-cannabis-registry-application){:target="_blank"} form or by printing out an application from our [Forms Page](/forms){:target="_blank"} and mailing or e-mailing it in to the Dept of Public Health.  In order to complete the application, you will need:  
+Applications can be completed with the [online web-based application](http://www.dph.illinois.gov/topics-services/prevention-wellness/medical-cannabis/medical-cannabis-registry-application){:target="_blank"} form or by printing out an application from our [Forms Page]({{  site.github.url  }}/forms){:target="_blank"} and mailing or e-mailing it in to the Dept of Public Health.  In order to complete the application, you will need:  
 
 *__Proof of Residency__*   
 Two documents from among the following:  
