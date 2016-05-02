@@ -23,7 +23,7 @@ For more information, please use the form below to contact us.
     <input type="email" name="_replyto" placeholder="Email Address">
     <input type="text" name="_comments" placeholder="Comments. Please.">
     <input type="hidden" name="_subject" value="New submission!" />
-    <input type="hidden" name="_next" value="/index.html" />
+    <input type="hidden" name="_next" value="{{ site.github.url }}/index.html" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>
