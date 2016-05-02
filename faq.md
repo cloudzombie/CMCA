@@ -31,6 +31,9 @@ signed. You have to be in that doctor’s “continuing care”. However, you ar
 have multiple doctors; only one of them would need to agree to sign off on allowing you
 access to cannabis treatment.  If you are having difficulty finding a doctor, please contact us.
 
+#### CAN I USE MY MEDICAL CANNABIS CARD FROM ANOTHER STATE?
+No. Illinois does not offer reciprocity with any other medical cannabis programs.
+
 #### CAN I GROW MY OWN CANNABIS?
 No. Illinois does not allow any persons to grow cannabis. Only the licensed Cultivation Centers can grow.
 

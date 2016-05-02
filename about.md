@@ -17,13 +17,13 @@ The Chicago Medical Cannabis Association performs outreach and advocacy for pati
 </ul>
 For more information, please use the form below to contact us.
 
-<form action="https://formspree.io/bryan@dispensary33.com"
+<form action="https://formspree.io/info@chicagocannabis.org"
       method="POST">
     <input type="text" name="_name" placeholder="Name">
     <input type="email" name="_replyto" placeholder="Email Address">
     <input type="text" name="_comments" placeholder="Comments. Please.">
     <input type="hidden" name="_subject" value="New submission!" />
-    <input type="hidden" name="_next" value="{{ site.github.url }}/index.html" />
+    <input type="hidden" name="_next" value="http:dispensary33.com" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>

@@ -3,7 +3,7 @@ layout: page
 title: Find a Doctor
 description: Find a Doctor for Chicago Medical Cannabis
 permalink: /doctor/
-banner: images/banner.jpg
+banner: images/AdobeStock_30263364_WM.jpeg
 ---
 
 We recommend you begin your search with your current doctor. Any Illinois physician licensed to write a prescription is qualified to sign a cannabis recommendation form. It is a fairly simple form to attest that you have one of the qualifying conditions. Nevertheless, if your current doctor is reticent or unwilling to grant your request, you are free to pursue treatment from another doctor. A partial list of such doctors and patients advocates is listed below:
@@ -13,10 +13,10 @@ The Healing Clinic is located in Chicago's Lakeview neighborhood, at [1443 W Bel
 
 
 #### [Innovative Express Care](http://innovativeexpresscare.com/medical-marijuana/){:target="_blank"}
-Innovative Express Care is located on the northwest corner of [Ashland and Fullerton](https://www.google.com/maps/place/Innovative+Express+Care/@41.9253496,-87.6706297,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd2effba9ac61:0xc59c513b06402ae0){:target="_blank"}. 
+Innovative Express Care is located at [2400 N. Ashland](https://www.google.com/maps/place/Innovative+Express+Care/@41.9253496,-87.6706297,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd2effba9ac61:0xc59c513b06402ae0){:target="_blank"} at the northwest corner of Fullerton. 
 
 #### [Milton Chavez](http://www.mchavezmd.com/medical-marijuana/){:target="_blank"}
 Dr. Milton Chavez is located at [2222 W Division St.](https://www.google.com/maps/place/Dr.+Milton+Chavez,+MD/@41.9034845,-87.6856097,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd2b12f893511:0xddb6ad611fb4e374){:target="_blank"} 
 
 
-##### _CMCA lists all interested physician and patient advocates free of charge.  If you would like to be listed on this page please us the form on the [About Us page](/about-us) to contact us_.
+###### _CMCA lists all interested physician and patient advocates free of charge. If you would like to be listed on this page please use the form on the [About Us page](/about-us){:target="_blank"} to contact us._
