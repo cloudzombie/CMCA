@@ -31,3 +31,10 @@ We know there is a lot of information to sift through. That’s why our opinions
 always guided by patient experience and the best research available. We spend a
 lot of time reading papers and vetting them for credibility. We don’t get our
 knowledge from random web articles and neither should you.
+
+## Illinois Program
+Illinois was the 23rd state to pass legislation legalizing the use of cannabis to
+treat certain medical conditions. Every state has different rules that govern
+medical cannabis use and the rules here are different than other states, even
+ones that only allow medical and not recreational use.
+

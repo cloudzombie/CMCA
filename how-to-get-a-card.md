@@ -8,7 +8,7 @@ banner: images/AdobeStock_79408857_WM.jpeg
 
 ## Acquiring a Medical Cannabis Card  
 
-*Step One:* Determine that you (or someone close to you) qualify  
+*Step One:* Determine that you, or someone close to you, qualifies  
 *Step Two:* Find a doctor to sign your recommendation  
 *Step Three:* Fill out the applications  
 
@@ -26,7 +26,7 @@ If your current physician has concerns or refuses to recommend cannabis, please 
 > While not required, we __strongly recommend that patients assign a caregiver.__  A caregiver has all of the privileges of purchasing and possessing cannabis as a patient.  They are designated by a patient to help purchase cannabis on their behalf. If you are close to someone who qualifies, we encourage you to discuss their becoming a patient and assigning you as their caregiver.
 
 ### Step Three: Apply.
-Applications can be completed with the [online web-based application](http://www.dph.illinois.gov/topics-services/prevention-wellness/medical-cannabis/medical-cannabis-registry-application) form or by printing out an application and mailing or e-mailing it in to the Dept of Public Health.  In order to complete the application, you will need:  
+Applications can be completed with the [online web-based application](http://www.dph.illinois.gov/topics-services/prevention-wellness/medical-cannabis/medical-cannabis-registry-application) form or by printing out an application from our [Forms Page](/forms) and mailing or e-mailing it in to the Dept of Public Health.  In order to complete the application, you will need:  
 
 *__Proof of Residency__*   
 Two documents from among the following:  
@@ -64,5 +64,4 @@ All qualifying conditions apply to minors as well, but their applications must b
 
 The Parent or Guardian of a qualifying minor will have to fill out the
 [Application for Minors]({{ site.github.url }}/documents/Minor-Application.pdf)
-and will also need a to acquire a second, reviewing physician’s approval. Go to
-the Forms Page for the complete set and reach out to us with any questions.
+and will also need a to acquire a second, reviewing physician’s approval. 
