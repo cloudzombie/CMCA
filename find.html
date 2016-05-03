@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Find a Dispensary
-description: Find an Illinois Dispensary
+title: Chicago Dispensary Locator
+description: Find a Chicago Cannabis Dispensary Near You
 permalink: /find/
 banner: images/pic01.jpg
 ---
@@ -10,7 +10,6 @@ banner: images/pic01.jpg
   <h2>Chicago Dispensaries</h2>
   <p>Click a marker for more information</p>
 </header>
-
 
 <style>
   #map {
@@ -28,12 +27,33 @@ banner: images/pic01.jpg
   }
 </style>
 <div id="map"></div>
+
+<br/>
+<h3>MODERN CANNABIS (MOCA)</h3>
+<p>Phone: <a href="tel:8728292089"></a>872-829-2089</p>
+<p>Website: <a href="http://moderncann.com/" target="_blank">http://moderncann.com</a></p>
+<p>2847 W FULLERTON AVE</p>
+<p>CHICAGO, IL 60647</p>
+<br/>
+
+<h3>DISPENSARY 33</h3>
+<p>Phone: <a href="tel:3126203333"></a>312-620-3333</p>
+<p>Website: <a href="http://dispensary33.com/" target="_blank">http://dispensary33.com/</a></p>
+<p>5001 N CLARK ST</p>
+<p>CHICAGO, IL 60640</p>
+<br/>
+
+<h3>Midway Dispensary</h3>
+<p>Website: <a href="http://midwaydispensary.com/" target="_blank">http://midwaydispensary.com/</a></p>
+<p>5648 S. ARCHER</p>
+<p>CHICAGO, IL 60640</p>
+
 <script>
   var map;
   function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
-      center: {lat: 41.886213, lng: -87.585695},
-      zoom: 11
+      center: {lat: 41.895485, lng: -87.746272},
+      zoom: 10
     });
 
     var popupWindow = new google.maps.InfoWindow({
@@ -66,7 +86,7 @@ banner: images/pic01.jpg
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key={{ site.googleMapsApiKey }}&callback=initMap" async defer></script>
 <script>
-  var dispensaries = [{"id":53727,"phone":"312-620-3333","website":"http:\/\/dispensary33.com\/","image":false,"name":"Dispensary 33","owner":"t","email":"t","address":"5001 N Clark St","city":"Chicago","state":"IL","county":"","zip":"60640","geo":{"lat":"41.9726771","lon":"-87.6676646"}},{"id":53726,"phone":"872-829-2089","website":"http:\/\/moderncann.com\/","image":false,"name":"Modern Cannabis (MOCA)","owner":"t","email":"t","address":"2847 W Fullerton Ave","city":"Chicago","state":"IL","county":"","zip":"60647","geo":{"lat":"41.9246065","lon":"-87.6992543"}}];
+  var dispensaries = [{"id":53727,"phone":"312-620-3333","website":"http:\/\/dispensary33.com\/","image":false,"name":"Dispensary 33","owner":"t","email":"t","address":"5001 N Clark St","city":"Chicago","state":"IL","county":"","zip":"60640","geo":{"lat":"41.9726771","lon":"-87.6676646"}},{"id":53726,"phone":"872-829-2089","website":"http:\/\/moderncann.com\/","image":false,"name":"Modern Cannabis (MOCA)","owner":"t","email":"t","address":"2847 W Fullerton Ave","city":"Chicago","state":"IL","county":"","zip":"60647","geo":{"lat":"41.9246065","lon":"-87.6992543"}},{"id":5372,"phone":"","website":"http:\/\/midwaydispensary.com\/","image":false,"name":"Midway Dispensary","owner":"t","email":"t","address":"5648 S. Archer","city":"Chicago","state":"IL","county":"","zip":"60640","geo":{"lat":"41.79770","lon":"-87.75207"}}];
 
 
 

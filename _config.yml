@@ -7,11 +7,11 @@
 
 # Site settings
 title: Chicago Medical Cannabis Association
-email: your-email@domain.com
+email: info@chicagocannabis.org
 description: > # this means to ignore newlines until "baseurl:"
   Chicago Medical Cannabis Association
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitterUrl: http://www.google.com
 facebookUrl: http://www.google.com
 instagramUrl: http://www.google.com

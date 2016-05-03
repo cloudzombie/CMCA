@@ -7,38 +7,6 @@ banner: images/AdobeStock_89650443_WM.jpeg
 ---
 
 
-## About Cannabis
-While we question the validity of the decades long “War on Drugs” and attempt
-to view policy through the lens of public health concerns, we find that what has
-been lacking is scientific research and a compassionate approach.
-
-Today however, new research concerning the possible benefits of cannabis is
-altering the discussion. It is nearly impossible to ignore the fact that the
-rhetoric demonizing cannabis was grossly overstated. Polling indicates that more
-than 40% of Americans have used cannabis. That’s a large number of people who have
-personal experience. These people are your family and friends and neighbors.
-They are lawyers and doctors and parents. At best, we know someone who has
-benefitted greatly from using cannabis.
-
-A person who could alleviate pain without, or with fewer, prescription painkillers.
-A person who could regain their appetite after undergoing chemotherapy.
-A child who could reduce seizure occurrences. Anecdotal cases demand further
-research. We are far from drawing absolute conclusions.However, we must weigh
-any possible negative side effects of cannabis use against its many, many potential
-benefits. The great shift occurring now is motivated by the desire to side with
-the patient’s wishes.
-
-We know there is a lot of information to sift through. That’s why our opinions are
-always guided by patient experience and the best research available. We spend a
-lot of time reading papers and vetting them for credibility. We don’t get our
-knowledge from random web articles and neither should you.
-
-## Illinois Program
-Illinois was the 23rd state to pass legislation legalizing the use of cannabis to
-treat certain medical conditions. Every state has different rules that govern
-medical cannabis use and the rules here are different than other states, even
-ones that only allow medical and not recreational use.
-
 #### DO I NEED A PRESCRIPTION FROM MY DOCTOR?
 Doctors can’t actually prescribe cannabis in the US, but they can recommend it to their patients.
 Your doctor will need to fill out a [Physician Certification Form]({{ site.github.url }}/documents/Physician-Certification.pdf)
@@ -62,6 +30,9 @@ happening here. You can’t just see a doctor for a single visit and get your re
 signed. You have to be in that doctor’s “continuing care”. However, you are free to
 have multiple doctors; only one of them would need to agree to sign off on allowing you
 access to cannabis treatment.  If you are having difficulty finding a doctor, please contact us.
+
+#### CAN I USE MY MEDICAL CANNABIS CARD FROM ANOTHER STATE?
+No. Illinois does not offer reciprocity with any other medical cannabis programs.
 
 #### CAN I GROW MY OWN CANNABIS?
 No. Illinois does not allow any persons to grow cannabis. Only the licensed Cultivation Centers can grow.
