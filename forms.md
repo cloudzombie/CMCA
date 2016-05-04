@@ -3,7 +3,7 @@ layout: page
 title: Application Forms
 description: Forms necessary for your application for an Illinois Medical Cannabis Card
 permalink: /forms/
-banner: images/banner.jpg
+banner: images/healthy-marijuana-leaf.jpg
 ---
 
 #### Forms:

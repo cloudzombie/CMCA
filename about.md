@@ -3,7 +3,7 @@ layout: page
 title: About The<br/>Chicago Medical Cannabis Association
 description: Please use the contact form below to reach us
 permalink: /about-us/
-banner: images/banner.jpg
+banner: images/pic48.jpg
 ---
 
 The Chicago Medical Cannabis Association performs outreach and advocacy for patients throughout Chicago. We strive to:

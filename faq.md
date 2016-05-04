@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 description: Frequently Asked Questions
 permalink: /faq/
-banner: images/AdobeStock_89650443_WM.jpeg
+banner: images/banner1.png
 ---
 
 

@@ -3,7 +3,7 @@ layout: page
 title: How to get a Card
 description: Acquiring A Medical Cannabis Card
 permalink: /how-to-get-a-card/
-banner: images/AdobeStock_79408857_WM.jpeg
+banner: images/banner1.png
 ---
 
 ## Acquiring a Medical Cannabis Card  
