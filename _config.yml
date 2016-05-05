@@ -11,11 +11,13 @@ email: info@chicagocannabis.org
 description: > # this means to ignore newlines until "baseurl:"
   Chicago Medical Cannabis Association
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://chicagocannabis.org" # the base hostname & protocol for your site
 twitterUrl: http://www.google.com
 facebookUrl: http://www.google.com
 instagramUrl: http://www.google.com
 googleMapsApiKey: AIzaSyCCGAjXuCpxKwqWc6kgkmCAv-ge2QnrQ1o
+# Google services
+google_analytics: UA-4628695-9
 
 # Build settings
 markdown: kramdown
