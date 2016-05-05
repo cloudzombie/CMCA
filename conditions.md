@@ -3,7 +3,7 @@ layout: page
 title: Qualifying Conditions
 description: Qualifying Medical Conditions
 permalink: /conditions/
-banner: images/AdobeStock_89650443_WM.jpeg
+banner: images/fat-young-bud.jpg
 ---
 
 ## Qualifying Conditions

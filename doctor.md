@@ -3,7 +3,7 @@ layout: page
 title: Find a Doctor
 description: Find a Doctor for Chicago Medical Cannabis
 permalink: /doctor/
-banner: images/AdobeStock_30263364_WM.jpeg
+banner: images/AdobeStock_89650443.jpeg
 ---
 
 We recommend you begin your search with your current doctor. Any Illinois physician licensed to write a prescription is qualified to sign a cannabis recommendation form. It is a fairly simple form to attest that you have one of the qualifying conditions. Nevertheless, if your current doctor is reticent or unwilling to grant your request, you are free to pursue treatment from another doctor. A partial list of such doctors and patients advocates is listed below:
