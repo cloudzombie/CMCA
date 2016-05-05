@@ -18,15 +18,15 @@ The Chicago Medical Cannabis Association performs outreach and advocacy for pati
 
 For more information, please use the form below to contact us.
 
-## ToDo: Add google form
+## Contact Us
 
-<!-- <form action="https://formspree.io/info@chicagocannabis.org"
-      method="POST">
+<form action="https://formspree.io/info@chicagocannabis.org" method="POST">
     <input type="text" name="_name" placeholder="Name">
     <input type="email" name="_replyto" placeholder="Email Address">
     <input type="text" name="_comments" placeholder="Comments. Please.">
     <input type="hidden" name="_subject" value="New submission!" />
-    <input type="hidden" name="_next" value="{{ site.github.url }}/index.html" />
+    <input type="hidden" name="_next" value="{{ site.github.url }}/about-us" />
     <input type="text" name="_gotcha" style="display:none" />
+    <br/>
     <input type="submit" value="Send">
-</form> -->
+</form>
